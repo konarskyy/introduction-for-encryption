@@ -1,5 +1,5 @@
-cat > ~/crypto-101/README.md << 'EOF'
-# Crypto 101 — Classic Ciphers
+cat > ~/szyfrowanie/README.md << 'EOF'
+# Szyfrowanie — Classic Ciphers
 
 Implementation and breaking of classical ciphers in Python — Caesar and Vigenère.
 Built as a portfolio project to understand the fundamentals of cryptography.
